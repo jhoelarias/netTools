@@ -10,3 +10,6 @@ Environment     |	Language    |	Category      		        |	Util              	|	D
 |				|               | Scheduler                     |Quartz        	        |Job scheduling library                                     |
 |				|               | Scheduler                     |Hangfire      	        |Job scheduling library                                     |
 |				|               | Profiler                      |dotTrace      	        |performance profiler                                       |
+|				|               | Compressor                    |Ionic.zip     	        |manage compression                                         |
+|				|               | Linq and EF tester            |LINQPad 5     	        |Connect to solution and test linq and EF queries           |
+|				|               | Decompiler                    |dotPeek      	        |Obtain code from assemblies                                |
